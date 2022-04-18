@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "auxiliar.h": "c",
+        "hospital.h": "c",
+        "hospital_interno.h": "c"
+    }
+}
